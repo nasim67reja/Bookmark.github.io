@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/nasim67reja/bookmark.github.io)](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://github.com/nasim67reja/Bookmark.github.io)](https://your-solution-url.com)
+- Live Site URL: [https://nasim67reja.github.io/Bookmark.github.io/]
 
 ### Built with
 
