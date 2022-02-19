@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/nasim67reja/Bookmark.github.io)](https://your-solution-url.com)
+- Solution URL: [(https://github.com/nasim67reja/Bookmark.github.io)]
 - Live Site URL: [https://nasim67reja.github.io/Bookmark.github.io/]
 
 ### Built with
@@ -74,6 +74,6 @@ For future Project I want to focus on the form. I think I need to improve my ski
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Nasim Reja](https://www.your-site.com)
+- Frontend Mentor - [@nasim67reja](https://www.frontendmentor.io/profile/@nasim67reja)
+- Twitter - [@Nasimreja97](https://www.twitter.com/@Nasimreja97)
