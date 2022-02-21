@@ -84,6 +84,13 @@ html {
   /* 3) Hide it from screen readers */
   visibility: hidden;
 }
+/* back the element visible */
+.nav-open .main-nav {
+  opacity: 1;
+  pointer-events: auto;
+  visibility: visible;
+  transform: translateX(0);
+}
 ```
 
 - 3 . the blue bacground part is special for me . I have learnt a lot by making this type of background
