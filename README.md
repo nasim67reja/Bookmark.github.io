@@ -69,6 +69,21 @@ html {
   cursor: pointer;
   fill: var(--soft-red);
 }
+/* Hidden element without display none. because display none don't accept the property transition */
+.s {
+  /* Hide navigation */
+  /* Allows NO transitions at all */
+  /* display: none; */
+
+  /* 1) Hide it visually */
+  opacity: 0;
+
+  /* 2) Make it unaccessible to mouse and keyboard */
+  pointer-events: none;
+
+  /* 3) Hide it from screen readers */
+  visibility: hidden;
+}
 ```
 
 - 3 . the blue bacground part is special for me . I have learnt a lot by making this type of background
