@@ -59,6 +59,16 @@ I have learned so much thing by doing this project. Now I'm understand gradually
 html {
   overflow-x: hidden;
 }
+.icon,
+.social-icon {
+  transition: all 0.3s;
+}
+/* understand this trick */
+.icon:hover .social-icon,
+.icon:hover {
+  cursor: pointer;
+  fill: var(--soft-red);
+}
 ```
 
 - 3 . the blue bacground part is special for me . I have learnt a lot by making this type of background
