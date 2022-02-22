@@ -69,7 +69,8 @@ html {
   cursor: pointer;
   fill: var(--soft-red);
 }
-/* Hidden element without display none. because display none don't accept the property transition */
+/* Hidden element without display none. 
+because display none don't accept the property transition */
 .s {
   /* Hide navigation */
   /* Allows NO transitions at all */
