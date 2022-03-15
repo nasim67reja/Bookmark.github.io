@@ -458,6 +458,14 @@ form {
   max-width: 30rem;
   outline: 2px solid var(--soft-red);
 }
+.input-text {
+  background-color: var(--soft-red);
+  font-size: 1.4rem;
+  margin-top: 2px;
+  position: absolute;
+  padding: 5px;
+  display: none;
+}
 .f-btn {
   background-color: var(--soft-red);
   color: #fff;

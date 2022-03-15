@@ -42,3 +42,19 @@ const navigationBtn = document.querySelector(".btn-mobile-nav");
 navigationBtn.addEventListener("click", function (e) {
   document.querySelector(".header").classList.toggle("nav-open");
 });
+
+//  cta form
+const footerBtn = document.querySelector(".f-btn");
+const input = document.querySelector(".input");
+const inputText = document.querySelector(".input-text");
+const inputBox = document.querySelector(".input-box");
+input.style.width = getComputedStyle(inputBox).width;
+footerBtn.addEventListener("click", function (e) {
+  e.preventDefault();
+  const email = input.value;
+  inputText.style.display = "block";
+
+  if (email.includes("@gmail.com")) {
+    inputText.textContent = "Your form have been submitted";
+  }
+});
